@@ -1,0 +1,22 @@
+{
+  "name": "secure-file-sharing-examples",
+  "version": "1.0.0",
+  "description": "Developer cookbook and working recipes in Node.js, Python, and cURL for programmatic zero-trust document dispatch and webhook event ingestion.",
+  "scripts": {
+    "test": "node --test tests/*.test.js && python3 tests/test_python_recipe.py",
+    "demo:node": "node nodejs/send-document.js",
+    "demo:python": "python3 python/secure_dispatch.py"
+  },
+  "keywords": [
+    "secure-file-sharing",
+    "document-tracking-api",
+    "signed-urls",
+    "python-recipes",
+    "nodejs-examples",
+    "curl-recipes",
+    "webhooks",
+    "sendnow"
+  ],
+  "author": "SendNow Open Source Team <opensource@sendnow.live>",
+  "license": "MIT"
+}

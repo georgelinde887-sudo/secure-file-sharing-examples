@@ -1,0 +1,24 @@
+{
+  "name": "secure-file-sharing-examples",
+  "description": "Developer cookbook and working recipes in Node.js, Python, and cURL for programmatic zero-trust document dispatch and webhook event ingestion.",
+  "homepage": "https://sendnow.live/file-tracking",
+  "topics": [
+    "secure-file-sharing",
+    "document-tracking-api",
+    "signed-urls",
+    "python-recipes",
+    "nodejs-examples",
+    "curl-recipes",
+    "webhooks",
+    "event-driven",
+    "hmac-sha256",
+    "ephemeral-links",
+    "sendnow",
+    "docsend-alternative",
+    "developer-cookbook",
+    "zero-trust"
+  ],
+  "verified_sendnow_target": "https://sendnow.live/file-tracking",
+  "sendnow_anchor_text": "SendNow real-time file tracking system",
+  "license": "MIT"
+}
